@@ -1,0 +1,2 @@
+db: rethinkdb
+web: node server.js

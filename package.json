@@ -1,0 +1,16 @@
+{
+  "name": "@benjaminjs/rethink-realtime",
+  "version": "1.0.0",
+  "description": "Code for Rethink Realtime presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "author": "Ben Armstrong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "rethinkdb": "^2.3.1",
+    "socket.io": "^1.4.6"
+  }
+}
